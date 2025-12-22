@@ -9,7 +9,7 @@ require (
 	github.com/go-logr/logr v1.4.2
 	github.com/google/go-cmp v0.7.0
 	github.com/kcp-dev/apimachinery/v2 v2.0.0-20251209121225-cf3c0b624983
-	github.com/kcp-dev/client-go v0.0.0-20251209170419-79146629224a
+	github.com/kcp-dev/client-go v0.0.0-20251211053925-0c25555f33dd
 	github.com/kcp-dev/logicalcluster/v3 v3.0.5
 	github.com/martinlindhe/base36 v1.1.1
 	github.com/muesli/reflow v0.3.0
