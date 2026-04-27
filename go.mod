@@ -8,8 +8,8 @@ require (
 	github.com/egymgmbh/go-prefix-writer v0.0.0-20180609083313-7326ea162eca
 	github.com/go-logr/logr v1.4.3
 	github.com/google/go-cmp v0.7.0
-	github.com/kcp-dev/apimachinery/v2 v2.0.0-20260223112726-e0491868132a
-	github.com/kcp-dev/client-go v0.0.0-20260414121154-2d79d74415b1
+	github.com/kcp-dev/apimachinery/v2 v2.31.1
+	github.com/kcp-dev/client-go v0.31.1
 	github.com/kcp-dev/logicalcluster/v3 v3.0.5
 	github.com/martinlindhe/base36 v1.1.1
 	github.com/muesli/reflow v0.3.0
