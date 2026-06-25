@@ -119,10 +119,10 @@ github.com/jonboulle/clockwork v0.5.0 h1:Hyh9A8u51kptdkR+cqRpT1EebBwTn1oK9YfGYbd
 github.com/jonboulle/clockwork v0.5.0/go.mod h1:3mZlmanh0g2NDKO5TWZVJAfofYk64M7XN3SzBPjZF60=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
-github.com/kcp-dev/apimachinery/v2 v2.0.0-20260515145238-f12fb433742d h1:q0t7esngB6I6dhJs84qn9rS6qwRMc7GAaVeml69rt/8=
-github.com/kcp-dev/apimachinery/v2 v2.0.0-20260515145238-f12fb433742d/go.mod h1:1Rkhiwoq345wlUYtq1/P+3chL2eE1rdoIgBPwb6Y9x8=
-github.com/kcp-dev/client-go v0.0.0-20260616112551-8e7504f71149 h1:+6Xh0dSMZBEUk6xO1ZqkqS4VNe1cKaLdgN+HdLozQmE=
-github.com/kcp-dev/client-go v0.0.0-20260616112551-8e7504f71149/go.mod h1:UayXqKdaRDBrRXxMyRq/+5CwsDqEXu9LJ9yPBXNQXDI=
+github.com/kcp-dev/apimachinery/v2 v2.32.2 h1:7DIoj1TqYNCAn9rX4yEyQybAnsQZMg8Cscf4uhm01pE=
+github.com/kcp-dev/apimachinery/v2 v2.32.2/go.mod h1:1Rkhiwoq345wlUYtq1/P+3chL2eE1rdoIgBPwb6Y9x8=
+github.com/kcp-dev/client-go v0.32.2 h1:C4osjGEku2jgBAiqOtet6ZD0ewu37t+rYviRlp9ERrw=
+github.com/kcp-dev/client-go v0.32.2/go.mod h1:akwh/qqczVPlm5ws4tAU0su+t6mo4KRlJvK0+W2gwlQ=
 github.com/kcp-dev/logicalcluster/v3 v3.0.5 h1:JbYakokb+5Uinz09oTXomSUJVQsqfxEvU4RyHUYxHOU=
 github.com/kcp-dev/logicalcluster/v3 v3.0.5/go.mod h1:EWBUBxdr49fUB1cLMO4nOdBWmYifLbP1LfoL20KkXYY=
 github.com/kisielk/errcheck v1.5.0/go.mod h1:pFxgyoBC7bSaBwPgfKdkLd5X25qrDl4LWUI2bnpBCr8=
