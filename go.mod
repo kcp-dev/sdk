@@ -33,7 +33,7 @@ require (
 	sigs.k8s.io/yaml v1.6.0
 )
 
-replace github.com/kcp-dev/code-generator/v3 => github.com/kcp-dev/code-generator/v3 v3.0.0-20260704101953-84c1b69ab3e0
+replace github.com/kcp-dev/code-generator/v3 => github.com/kcp-dev/code-generator/v3 v3.0.0-20260805075105-d57b102dac06
 
 require (
 	cel.dev/expr v0.25.1 // indirect
