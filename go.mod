@@ -8,8 +8,8 @@ require (
 	github.com/egymgmbh/go-prefix-writer v0.0.0-20180609083313-7326ea162eca
 	github.com/go-logr/logr v1.4.3
 	github.com/google/go-cmp v0.7.0
-	github.com/kcp-dev/apimachinery/v2 v2.0.0-20260615094100-229dbedddc96
-	github.com/kcp-dev/client-go v0.0.0-20260522103404-5046253cbd4d
+	github.com/kcp-dev/apimachinery/v2 v2.0.0-20260914063531-31b7d7f63736
+	github.com/kcp-dev/client-go v0.0.0-20260915113118-d66b9fa3905e
 	github.com/kcp-dev/logicalcluster/v3 v3.0.5
 	github.com/muesli/reflow v0.3.0
 	github.com/onsi/gomega v1.38.2
@@ -33,7 +33,7 @@ require (
 	sigs.k8s.io/yaml v1.6.0
 )
 
-replace github.com/kcp-dev/code-generator/v3 => github.com/kcp-dev/code-generator/v3 v3.0.0-20260805075105-d57b102dac06
+replace github.com/kcp-dev/code-generator/v3 => github.com/kcp-dev/code-generator/v3 v3.0.0-20260804142323-df4503b576c0
 
 require (
 	cel.dev/expr v0.25.1 // indirect
