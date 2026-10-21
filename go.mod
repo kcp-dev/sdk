@@ -9,7 +9,7 @@ require (
 	github.com/go-logr/logr v1.4.3
 	github.com/google/go-cmp v0.7.0
 	github.com/kcp-dev/apimachinery/v2 v2.0.0-20260914063531-31b7d7f63736
-	github.com/kcp-dev/client-go v0.0.0-20260522103404-5046253cbd4d
+	github.com/kcp-dev/client-go v0.0.0-20261015152630-4aa0375b3fd0
 	github.com/kcp-dev/logicalcluster/v3 v3.0.5
 	github.com/muesli/reflow v0.3.0
 	github.com/onsi/gomega v1.38.2
@@ -32,8 +32,6 @@ require (
 	sigs.k8s.io/structured-merge-diff/v6 v6.4.0
 	sigs.k8s.io/yaml v1.6.0
 )
-
-replace github.com/kcp-dev/code-generator/v3 => github.com/kcp-dev/code-generator/v3 v3.0.0-20260805075105-d57b102dac06
 
 require (
 	cel.dev/expr v0.25.1 // indirect
