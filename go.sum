@@ -115,6 +115,10 @@ github.com/jonboulle/clockwork v0.5.0 h1:Hyh9A8u51kptdkR+cqRpT1EebBwTn1oK9YfGYbd
 github.com/jonboulle/clockwork v0.5.0/go.mod h1:3mZlmanh0g2NDKO5TWZVJAfofYk64M7XN3SzBPjZF60=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
 github.com/json-iterator/go v1.1.12/go.mod h1:e30LSqwooZae/UwlEbR2852Gd8hjQvJoHmT4TnhNGBo=
+github.com/kcp-dev/apimachinery/v2 v2.0.0-20261030211804-fdca4391d570 h1:JPMIiL0BstMxEQ42XCSZjybd9aq7KmBnQsETIrxwUR0=
+github.com/kcp-dev/apimachinery/v2 v2.0.0-20261030211804-fdca4391d570/go.mod h1:Ofl5G63tVCGIjnjOjKo3mvveWJpstPrgWdXxmFTEzpE=
+github.com/kcp-dev/client-go v0.0.0-20261030213110-250137c16eb2 h1:2s/MGIHeEtDZ1LYDhIyWAPHdnVDlVEWuG1eGxKtkUJA=
+github.com/kcp-dev/client-go v0.0.0-20261030213110-250137c16eb2/go.mod h1:/UnVNOvbn0dr12USh6F3FUNHUe3Ot7C33R/lBdVnIMU=
 github.com/kcp-dev/logicalcluster/v3 v3.0.5 h1:JbYakokb+5Uinz09oTXomSUJVQsqfxEvU4RyHUYxHOU=
 github.com/kcp-dev/logicalcluster/v3 v3.0.5/go.mod h1:EWBUBxdr49fUB1cLMO4nOdBWmYifLbP1LfoL20KkXYY=
 github.com/klauspost/compress v1.19.0 h1:sXLILfc9jV2QYWkzFOPWStmcUVH2RHEB1JCdY2oVvCQ=
