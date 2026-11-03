@@ -33,6 +33,8 @@ require (
 	sigs.k8s.io/yaml v1.6.0
 )
 
+replace github.com/kcp-dev/code-generator/v3 => github.com/kcp-dev/code-generator/v3 v3.0.0-20261102194704-2c174fee7a8e
+
 require (
 	cel.dev/expr v0.25.1 // indirect
 	github.com/Azure/go-ansiterm v0.0.0-20250102033503-faa5f7b0171c // indirect
